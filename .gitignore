@@ -1,0 +1,4 @@
+generated/
+generatedQC/
+.env
+node_modules/
